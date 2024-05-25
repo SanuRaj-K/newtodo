@@ -135,7 +135,7 @@ function Home() {
               </svg>
             </div>
             <div onClick={handleSignout} className="  flex  justify-end mr-6">
-              <button className=" bg-black text-white border px-3 py-2">
+              <button className=" bg-black text-white border px-3 py-1">
                 Signout
               </button>
             </div>
